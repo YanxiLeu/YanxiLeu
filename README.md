@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Yanxi Leu
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Python.
+- 👋 Hi, I’m Yanxi Liu
